@@ -9,9 +9,10 @@ import UIKit
 
 class TheSecondExampleViewController: UIViewController {
 
+    private var cobaDua = ""
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        cobaDua = "Putri Cantik"
         // Do any additional setup after loading the view.
     }
 

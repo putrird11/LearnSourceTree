@@ -8,10 +8,13 @@
 import UIKit
 
 class ExampleVscodeViewController: UIViewController {
+    
+    private var cobaAja = 0
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
+        cobaAja = 2
         // Do any additional setup after loading the view.
     }
 
